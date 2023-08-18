@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV - HD
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias- HD
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peru", America TV - HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a04j
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="Cable", ADN40 Mx
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",A and E
+http://clubtv.link/1708a/top5546/lista.php?c=178&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", A&E HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01c
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", AZ Cinema HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03y
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", AXN HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01f
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", AMC HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03m
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",A+
+http://clubtv.link/1708a/top5546/lista.php?c=113&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",ABC (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=159&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",ABC News
+http://clubtv.link/1708a/top5546/lista.php?c=110&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Adrenalina Sport
+http://clubtv.link/1708a/top5546/lista.php?c=140&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Animal Planet
+http://clubtv.link/1708a/top5546/lista.php?c=75&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Animal Planet HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a042
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",AZ Corazon
+http://clubtv.link/1708a/top5546/lista.php?c=117&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",BBC America (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=166&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Bein Sports Esp
+http://clubtv.link/1708a/top5546/lista.php?c=176&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",Bravo (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=192&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Infantil", Cartoon Network HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network West TVE Feed
+https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito Mx
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Comedy Central HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02g
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Cinemax HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02f
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Cinecanal HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03l
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="Peliculas",Cine Real
+http://clubtv.link/1708a/top5546/distro.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="Peliculas",Cine Sureño Mx
+http://clubtv.link/1708a/top5546/distro.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",CBS Sports Network (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=161&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",CNN Internacional
+http://clubtv.link/1708a/top5546/lista.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Caracol Colombia
+http://clubtv.link/1708a/top5546/lista.php?c=157&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Caracol Colombia Op2
+http://clubtv.link/1708a/top5546/lista.php?c=226&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Infantil", Disney Channel HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a023
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Discovery HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a05a
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Discovery H&H HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02q
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Dicovery Turbo
+http://clubtv.link/1708a/top5546/lista.php?c=230&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Infantil",Discovery Kids
+http://clubtv.link/1708a/top5546/lista.php?c=210&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Infantil", Discovery Kids HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02p
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Discovery Science
+http://clubtv.link/1708a/top5546/lista.php?c=216&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Discovery Theater Usa
+http://clubtv.link/1708a/top5546/lista.php?c=217&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Discovery Theater HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02r
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Discovery TLC
+http://clubtv.link/1708a/top5546/lista.php?c=124&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Discovery Turbo OP2
+http://clubtv.link/1708a/top5546/lista.php?c=229&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Discovery World HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03k
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", DHE HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a059
+#EXTINF:-1 tvg-shift="-2"  group-title="Peru", Exitosa Noticias - HD
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Cable", Estrella Tv Mx
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="Cable",Euronews Español
+http://clubtv.link/1708a/top5546/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cocina",El Gourmet
+http://clubtv.link/1708a/top5546/lista.php?c=219&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", E! HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a05z
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", ESPN EXTRA HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03n
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",ESPN Deportes(USA)
+http://clubtv.link/1708a/top5546/lista.php?c=167&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", ESPN HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01v
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", ESPN HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a036
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",ESPN 1 MX
+http://clubtv.link/1708a/top5546/lista.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",ESPN 2 MX
+http://clubtv.link/1708a/top5546/lista.php?c=36&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",ESPN 2 US
+http://clubtv.link/1708a/top5546/lista.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", ESPN 2 HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02c
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", ESPN 3 HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a026
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", ESPN 4 HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02w
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Eurosports 1
+http://clubtv.link/1708a/top5546/lista.php?c=206&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="Musica",Flash
+http://clubtv.link/1708a/top5546/distro.php?c=flash-1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="Peliculas",Free TV
+http://clubtv.link/1708a/top5546/distro.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cocina", Food Network HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a04i
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",Fox News (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=168&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Internacional",Fox Sport 1 (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=221&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", FOX Sports 2 HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02x
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", Fox Sports 3 HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a027
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Fox Deportes
+http://clubtv.link/1708a/top5546/lista.php?c=38&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Fox Sports Premium
+http://clubtv.link/1708a/top5546/lista.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Fox Sports 1 MX
+http://clubtv.link/1708a/top5546/lista.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",Fox Sports MX
+http://clubtv.link/1708a/top5546/lista.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",FX
+http://clubtv.link/1708a/top5546/lista.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Deportes",GolTV
+http://clubtv.link/1708a/top5546/lista.php?c=208&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", GOLPeru HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a04m
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="Cable",Glewedtv Spanish - Ecuador
+http://clubtv.link/1708a/top5546/distro.php?c=glewedtv-spanish&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Galavision (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=174&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Golden Plus
+http://clubtv.link/1708a/top5546/lista2.php?c=a049
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",Golden Edge
+http://clubtv.link/1708a/top5546/lista.php?c=181&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", History Channel HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01b
+#EXTINF:-1 tvg-shift="-2"  group-title="Internacional", HBO Usa HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03q
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",HBO 2
+http://clubtv.link/1708a/top5546/lista.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",HBO Family
+http://clubtv.link/1708a/top5546/lista.php?c=73&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",HBO Plus
+http://clubtv.link/1708a/top5546/lista.php?c=215&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", HBO Pop HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01j
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",HBO Signature
+http://clubtv.link/1708a/top5546/lista.php?c=182&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", HBO Xtreme HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a06o
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Investigation Discovery
+http://clubtv.link/1708a/top5546/lista.php?c=220&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="Peliculas",Juntos
+http://clubtv.link/1708a/top5546/distro.php?c=juntos&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peru", Latina HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a04k
+#EXTINF:-1 tvg-shift="-3" group-title="Musica",MTV Hits
+http://clubtv.link/1708a/top5546/lista.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="Musica",MMC
+http://clubtv.link/1708a/top5546/distro.php?c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime movie network Spain FHD
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", Movistar Deportes HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a05s
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",Movistar Drama
+http://clubtv.link/1708a/top5546/lista.php?c=146&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Nat Geo HD
+#EXTINF:-1 tvg-shift="-2"  group-title="Infantil", Nick HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01s
+http://clubtv.link/1708a/top5546/lista2.php?c=a03j
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",NBC Universo (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=165&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Infantil",Nick Jr
+http://clubtv.link/1708a/top5546/lista.php?c=64&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", Paramount HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana TV - HD
+https://cdn74.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="Cable",Spanglish - Colombia
+http://clubtv.link/1708a/top5546/distro.php?c=spanglish&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="Peliculas",Saber Mas
+http://clubtv.link/1708a/top5546/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Space HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01g
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",Sony
+http://clubtv.link/1708a/top5546/lista.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Sony HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01d
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Studio Universal HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03w
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",SYFY
+http://clubtv.link/1708a/top5546/lista.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", STAR TVE HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03x
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",TNT
+http://clubtv.link/1708a/top5546/lista.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", TNT HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a025
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", TNT Series HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a034
+#EXTINF:-1 tvg-shift="-2"  group-title="Deportes", TNT Sports HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01h
+#EXTINF:-1 tvg-shift="-2"  group-title="Cable", TV+ HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a03h
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="Peliculas",Top Cine
+http://clubtv.link/1708a/top5546/distro.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Peliculas",Top Cine FHD
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Telemundo
+http://clubtv.link/1708a/top5546/lista.php?c=155&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Musica",Telecinco
+http://clubtv.link/1708a/top5546/lista.php?c=203&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Musica",Telecinco 2
+http://clubtv.link/1708a/top5546/lista.php?c=207&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Musica",TeleMusica
+http://clubtv.link/1708a/top5546/lista.php?c=95&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Cable",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Peru",TV Perú - HD
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Peru",TV Perú Noticias- HD
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Internacional", UNIVERSAL Channel Usa HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a02u
+#EXTINF:-1 tvg-shift="-3" group-title="Cable",Univision (USA)
+http://clubtv.link/1708a/top5546/lista.php?c=173&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="Peliculas",Warner Channel
+http://clubtv.link/1708a/top5546/lista.php?c=59&f=.m3u8
+#EXTINF:-1 tvg-shift="-2"  group-title="Peliculas", Warner Channel HD
+http://clubtv.link/1708a/top5546/lista2.php?c=a01e
+#EXTINF:-1 tvg-shift="-2"  group-title="Peru", Willax Tv
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7x4dgx.m3u8?auth=x&cs=dmx_1UwX3U93rupF0-R7rP36B0TRK2II2FGghVaYFdSUw-Cw93N0PfqTk9FHtM0bgjz7XM5pTYbvZEBK6m2uqdGxQs4-P5qTWYKhl63Zh7YK0NE
